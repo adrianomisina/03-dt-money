@@ -16,6 +16,15 @@
             "category":"Alimentação",
             "price": 60,
             "createAt": "2023-08-04T18:18:54.932Z"
+        },
+
+        {
+            "id": 3,
+            "description":"Ignite Rockeseat",
+            "type": "outcome",
+            "category":"Educação",
+            "price": 1980,
+            "createAt": "2023-08-10T18:18:54.932Z"
         }
     ]
 }
